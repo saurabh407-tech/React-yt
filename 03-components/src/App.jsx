@@ -1,6 +1,5 @@
 import React from 'react'
 import Card from './components/card';
-
 const App = () => {
   const user='Saurabh Shukla';
   return (
