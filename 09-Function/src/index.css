@@ -1,0 +1,26 @@
+input{
+  margin :10px;
+  padding: 10px;
+}
+.box{
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;  
+  padding: 5px;
+}
+.page1{
+  width: 100%;
+  height: 100vh;
+  background-color: lightcoral;
+}
+.page2{
+  width: 100%;
+  height: 100vh;
+  background-color: lightseagreen;
+}
+.page3{
+  width: 100%;
+  height: 100vh;
+  background-color: lightgoldenrodyellow;
+}
